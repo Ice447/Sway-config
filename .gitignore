@@ -1,0 +1,14 @@
+*
+!.gitignore
+!README.md
+!sway/
+!sway/**
+!wofi/
+!wofi/**
+!waybar/
+!waybar/**
+!matugen/
+!matugen/**
+sway/config.save
+waybar/secrets/*.env
+!waybar/secrets/*.example
